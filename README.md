@@ -73,8 +73,3 @@ python app.py
 python -m streamlit run app.py
 ```
 
----
-
-## 📷 Screenshots
-
-(Add your screenshots here)
